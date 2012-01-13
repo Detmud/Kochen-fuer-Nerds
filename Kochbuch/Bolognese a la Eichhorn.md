@@ -1,8 +1,8 @@
 # Bolognese à la Eichhorn
-## Zutaten für 1 Person
+## Zutaten für 2 Personen
 - 250 g Hackfleisch
 - 2-3 EL Tomatenmark
-- 250 ml passierte Tomaten
+- 400 ml passierte Tomaten
 - 1/2 Zwiebel
 - 1 TL Knoblauch
 - 2-3 EL Sojasoße
