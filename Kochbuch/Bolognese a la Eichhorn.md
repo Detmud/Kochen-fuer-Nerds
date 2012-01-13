@@ -3,7 +3,7 @@
 - 250 g Hackfleisch
 - 2-3 EL Tomatenmark
 - 400 ml passierte Tomaten
-- 1/2 Zwiebel
+- 1/2 Zwiebel (mittel bis groß)
 - 1 TL Knoblauch
 - 2-3 EL Sojasoße
 - Kräuter (nach Laune)
