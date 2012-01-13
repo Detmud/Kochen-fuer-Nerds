@@ -1,0 +1,2 @@
+# Vanillepudding
+## Zutaten für n Person- 25\*n g Zucker (wahlweise Honig)- 25\*n g Stärke (Mais, Kartoffel)- Opt.: 30-35\*n g Stärke für sturzfähigen Pudding- 1/4\*n Vanillieschoten- 250*n ml (Soja)milch## Vorbereitung- Alle Zutaten ordentlich abwiegen## Zubereitung- Zucker, Stärke vermischen und mit ca. 1/5 der Milch verrühren- Restliche Milch mit Vanillemark zum Kochen bringen- Angerührte Mischung zugeben- Unter ständigem Rühren 2 min. aufkochen (bis die Konsistenz puddingartig ist)
