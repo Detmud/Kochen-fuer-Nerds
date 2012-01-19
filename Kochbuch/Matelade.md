@@ -21,5 +21,5 @@
 - Gläser sofort nach dem Befüllen für 5 Minuten kopfüber stehen lassen (der Deckel sollte sich durch den entstehenden Unterdruck nach innen ziehen und die Matelade im Glas versiegeln)
 - Beschriften, einlagern, an Koffeinbedürftige verteilen
 
-#Tipps
+##Tipps
 - Das Pektin in Gelierzucker verliert ab 8 Minuten Kochzeit seine Gelierfähigkeit — Kochzeiten genau einhalten!
