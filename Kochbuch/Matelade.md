@@ -22,4 +22,4 @@
 - Beschriften, einlagern, an Koffeinbedürftige verteilen
 
 #Tipps
-Das Pektin in Gelierzucker verliert ab 8 Minuten Kochzeit seine Gelierfähigkeit — Kochzeiten genau einhalten!
+- Das Pektin in Gelierzucker verliert ab 8 Minuten Kochzeit seine Gelierfähigkeit — Kochzeiten genau einhalten!
