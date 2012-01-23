@@ -5,6 +5,7 @@
 - n/2 Zwiebeln
 - n Knoblauchzehen
 - n TL gehackter frischer Ingwer
+- n TL Honig
 - n/2 TL Kurkuma
 - n/2 TL Kreuzkümmel
 - 2*n EL Petersilie (gehackt)
@@ -21,7 +22,7 @@
 
 ##Zubereitung
 - Zwiebeln, Knoblauch, Ingwer 2-3 Min. andünsten
-- Kurkuma und Kreuzkümmel zugeben und kurz mitbraten
+- Kurkuma, Kreuzkümmel und Honig zugeben und kurz mitbraten
 - Linsen einrühren und dann Brühe dazugießen
 - 10-15 Min. auf niedriger Temperatur köcheln lassen
 - Petersilie zugeben
