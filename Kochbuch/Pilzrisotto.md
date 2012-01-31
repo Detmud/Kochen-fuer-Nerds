@@ -20,3 +20,8 @@
 - nach und nach heiße Brühe dazugeben (alle paar Minuten), gelegentlich umrühren, wiederholen, bis alle Flüssigkeit aufgesogen ist
 - gegen Ende Porree bzw. Frühlingszwiebeln dazugeben, pfeffern und salzen nach Geschmack
 
+##Allergiehinweise
+- glutenfrei (falls glutenfreie Brühe verwendet wird)
+- casein- und laktosefrei
+- enthält Tierprodukte (können aber substituiert bzw. weggelassen werden)
+

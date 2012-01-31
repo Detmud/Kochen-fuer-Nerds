@@ -24,3 +24,7 @@
 - Sojasoße hinzugeben
 - Mit Kräutern verfeinern
 - Soße solange bei mittlerer Hitze köcheln bis die Sämigkeit IO ist. (KEIN MEHL zugeben)
+
+##Allergiehinweise
+- glutenfrei
+- enthält Tierprodukte (können substituiert oder weggelassen werden)

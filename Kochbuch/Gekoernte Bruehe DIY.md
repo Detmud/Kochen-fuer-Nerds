@@ -12,4 +12,8 @@
 - Das Gemüse muss wirklich knochentrocken und bröselig sein, sonst fault es im Glas
 - zum schnelleren Durchtrocknen die Ofentür einen Spalt offen lassen
 - Weitere Trockenmöglichkeiten: Dörrapparat oder im Sommer draußen
-- Für 1 l Gemüse-Brühe 1 EL der Mischung zum Wasser geben, aufkochen und ggf. noch weiter nachwürzen
+- Für 1 l Gemüse-Brühe 1 EL der Mischung zum Wasser geben, aufkochen und ggf. noch weiter nachwürzen
+
+##Allergiehinweise
+- glutenfrei
+- vegan

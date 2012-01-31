@@ -20,3 +20,7 @@
 - köcheln lassen bis die Kartoffeln gar sind und der Eintopf sämig genug (20-30 Min.)
 - ordentlich salzen (verträgt mehr Salz als man denkt)
 - servieren "as is" oder mit Reis
+
+##Allergiehinweise
+- glutenfrei
+- vegan

@@ -23,3 +23,7 @@
 
 ##Tipps
 - Das Pektin in Gelierzucker verliert ab 8 Minuten Kochzeit seine Gelierfähigkeit — Kochzeiten genau einhalten!
+
+##Allergiehinweise
+- glutenfrei
+- vegan

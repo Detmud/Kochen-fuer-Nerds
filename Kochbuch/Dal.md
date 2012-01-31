@@ -31,3 +31,7 @@
 
 ##Tipps
 Ähnlich kann man Dal auch mit (Kicher-)Erbsen oder Bohnen zubereiten.
+
+##Allergiehinweise
+- glutenfrei (falls glutenfreie Brühe verwendet wird)
+- vegan (falls man den Honig durch ein anderes Süßungsmittel ersetzt)

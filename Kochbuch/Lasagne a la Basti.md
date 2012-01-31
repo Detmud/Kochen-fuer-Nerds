@@ -12,5 +12,8 @@
 
 ### Béchamelsauce
 - Butter in kl. Topf schmelzen - Mehl dazu arbeiten- Unter langsamer Zugabe von Milch die Soße glatt rühren- Die Sauce **~30 min** bei **kleiner Hitze köcheln**- Mit Salz, Pfeffer, Muskat & Zitronensaft abschmecken### Lasagne
-- Auflaufform einbuttern- Jede Schicht mit Lasagneplatten trennen (Ecken müssen in der Soße sein)- Schichtmodel (von unten nach oben): **Ragout / Ragout / Béchamel / Ragout / Béchamel**- Dick mit geriebenem Käse bestreuen- Butterstückchen auf der dem Käse setzen- Bei **180 °C** im Ofen backen **(Umluft)**, bist die Kruste goldbraun ist.### Tipps
+- Auflaufform einbuttern- Jede Schicht mit Lasagneplatten trennen (Ecken müssen in der Soße sein)- Schichtmodel (von unten nach oben): **Ragout / Ragout / Béchamel / Ragout / Béchamel**- Dick mit geriebenem Käse bestreuen- Butterstückchen auf der dem Käse setzen- Bei **180 °C** im Ofen backen **(Umluft)**, bist die Kruste goldbraun ist.## Tipps
 - Butter auf dem Käse gut verteilen damit der Käse nicht zu dunkel beim backen wird
+
+##Allergiehinweise
+- enthält Tierprodukte und Gluten
