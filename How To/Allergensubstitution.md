@@ -22,3 +22,5 @@
 
 ###Fleisch
 - Hackfleisch durch eingeweichte Sojaflocken oder (ggf. marinierten) Tofu ersetzen
+
+_to be continued_
