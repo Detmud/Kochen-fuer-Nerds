@@ -3,6 +3,7 @@
 
 - 250\*n g Kartoffeln
 - 125\*n ml Gemüsebrühe
+- n kleine Zehen Knoblauch
 - n EL Olivenöl
 - n/4 TL Kümmel
 - n/4 TL Majoran
