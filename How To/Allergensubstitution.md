@@ -2,7 +2,12 @@
 ##Gluten
 ###Mehl
 - glutenhaltiges Mehl (Weizen, Roggen, Gerste, Hafer, Dinkel) durch gleiche Menge fertige glutenfreie Mehlmischung ersetzen
-- generisches Rezept für 500 g glutenfreie Mehlmischung: 300 Gramm glutenfreies Mehl (Mais, Kartoffel, Reis, Buchweizen, Amaranth, Kastanie, Quinoa) mit 200g glutenfreier Stärke (Mais, Kartoffel, Reis, Tapioka), 2 TL Bindemittel (Johannisbrotkernmehl, Guarkernmehl) und 1 TL gemahlene Flohsamenschalen vermischen. Für Gebäck und Plätzchen die Gewichtsanteile von Mehl und Stärke vertauschen.
+- generisches Rezept für 500 g glutenfreie Mehlmischung:
+	- 300 Gramm glutenfreies Mehl (Mais, Kartoffel, Reis, Buchweizen, Amaranth, Kastanie, Quinoa)
+	- 200g glutenfreier Stärke (Mais, Kartoffel, Reis, Tapioka)
+	- 2 TL Bindemittel (Johannisbrotkernmehl, Guarkernmehl)
+	- 1 TL gemahlene Flohsamenschalen vermischen
+	- __Tipp__: Für Gebäck und Plätzchen die Gewichtsanteile von Mehl und Stärke vertauschen
 
 ###Sonstige Backzutaten
 - Backpulver durch fertiges glutenfreies Backpulver ersetzen
