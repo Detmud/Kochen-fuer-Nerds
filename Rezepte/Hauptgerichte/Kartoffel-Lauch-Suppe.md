@@ -3,15 +3,16 @@
 
 - 250\*n g Kartoffeln
 - 125\*n ml Gemüsebrühe
-- n kleine Zehen Knoblauch
-- n EL Olivenöl
-- n/4 TL Kümmel
-- n/4 TL Majoran
-- n/4 TL Thymian
-- n/4 TL Rosmarin
-- n/8 TL Muskat
+- n kleine Zehen Knoblauch 
 - n/8 Stange Lauch
-- Opt.: 50\*n ml (Soja)Milch
+- n EL Olivenöl
+- 50\*n ml (Soja)Milch
+- Gewürze: 
+  - n/4 TL Kümmel
+  - n/4 TL Majoran
+  - n/4 TL Thymian
+  - n/4 TL Rosmarin
+  - n/8 TL Muskat
 
 ##Vorbereitung
 - Kartoffeln schälen, grob würfeln
